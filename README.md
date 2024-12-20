@@ -56,7 +56,7 @@ Ce projet consiste à créer un site e-commerce dédié à la vente de DVD dans 
 
 ### Identifiants Administrateurs
 - *Utilisateur* : admin
-- *Mot de passe* : aminaFR2005@2022
+- *Mot de passe* : admin1234
 
 ## Structure du Dépôt
 
